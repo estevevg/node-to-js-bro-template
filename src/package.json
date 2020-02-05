@@ -1,0 +1,17 @@
+{
+    "name": "src",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.4.5",
+        "@babel/preset-env": "^7.4.5",
+        "babelify": "^10.0.0",
+        "gulp": "^4.0.2",
+        "gulp-bro": "^1.0.3",
+        "gulp-rename": "^1.2.2"
+    }
+}
